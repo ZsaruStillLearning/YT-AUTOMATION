@@ -42,9 +42,13 @@ Supported Video Types:
 7. Storytelling
 
 Supported Formats:
+
 Images: JPG, PNG, GIF, WebP, BMP, SVG
+
 Videos: MP4, AVI, MOV, MKV, FLV, WMV, WebM
+
 Audio: MP3, WAV, AAC, FLAC, OGG, M4A
+
 Documents: PDF, DOC, DOCX, TXT, MD, PPTX
 
 
@@ -83,6 +87,9 @@ How: Monitor performance, replicate success
 ```
 
 CREATE WITH LOVE AND DEDICATION
+
 IDEA MAKER : ZsaruStillLearning
+
 CONTRIBUTOR : AGENT AI, ZsaruStillLearning
+
 ANALYST : ZsaruStillLearning
