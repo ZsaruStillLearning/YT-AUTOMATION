@@ -1,4 +1,5 @@
 # YT-AUTOMATION
+#*My project is still in development, and there are bound to be flaws and imperfections. As the creator, I will strive to do my best for the users. Users are welcome to criticize, offer suggestions, or propose solutions. This can be a valuable learning experience for me.*
 
 YouTube Automation Suite has been successfully expanded with Comprehensive AI Features, including:
 - Content Analysis with a Rating System (Red/Yellow/Green/Blue)
